@@ -1,44 +1,6 @@
-ubiquity-slideshow-ubuntu (168.3-ubuntu1~regolith1) focal; urgency=medium
+ubiquity-slideshow-regolith (168.4-regolith1) focal; urgency=medium
 
   [ Ken Gilmer ]
-  * UI tweaks
+  * Lots of cleanup
 
- -- Regolith Linux <regolith.linux@gmail.com>  Wed, 28 Apr 2021 21:39:13 -0700
-
-ubiquity-slideshow-ubuntu (168.2-ubuntu1~regolith1) focal; urgency=medium
-
-  * Update virtual packages to allow Regolith variant to exist on Ubuntu
-    livecd.
-  * Resize image to better fit dialog 
-
- -- Regolith Linux <regolith.linux@gmail.com>  Tue, 27 Apr 2021 20:04:31 -0700
-
-ubiquity-slideshow-ubuntu (138.4-ubuntu1~regolith1) bionic; urgency=medium
-
-  * More image tweaks. 
-
- -- Regolith Linux <regolith.linux@gmail.com>  Fri, 13 Mar 2020 21:16:41 -0700
-
-ubiquity-slideshow-ubuntu (138.3-ubuntu1~regolith1) bionic; urgency=medium
-
-  * Tweak banner image height. 
-
- -- Regolith Linux <regolith.linux@gmail.com>  Tue, 10 Mar 2020 20:23:58 -0700
-
-ubiquity-slideshow-ubuntu (138.2-ubuntu1~regolith1) bionic; urgency=medium
-
-  * Remove regolith content, add logo. 
-
- -- Regolith Linux <regolith.linux@gmail.com>  Sun, 08 Mar 2020 17:26:01 -0700
-
-ubiquity-slideshow-ubuntu (138.1-ubuntu1~regolith1) bionic; urgency=medium
-
-  * Add Regolith content.  Remove non-regolith content.  Visual tweaks. 
-
- -- Regolith Linux <regolith.linux@gmail.com>  Sun, 08 Mar 2020 10:15:48 -0700
-
-ubiquity-slideshow-ubuntu (138-ubuntu1~regolith1) bionic; urgency=medium
-
-  * Copy content from Xubuntu for Regolith slideshow.
-
- -- Regolith Linux <regolith.linux@gmail.com>  Sat, 07 Mar 2020 09:07:34 -0800
+ -- Regolith Linux <regolith.linux@gmail.com>  Thu, 29 Apr 2021 22:08:46 -0700
