@@ -1,0 +1,19 @@
+Source: ubiquity-slideshow-regolith
+Section: x11
+Priority: optional
+Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
+Build-Depends: debhelper (>= 11)
+Build-Depends-Indep: po4a, python2
+Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
+Standards-Version: 4.1.2
+Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
+
+Package: ubiquity-slideshow-regolith
+Architecture: all
+Provides: ubiquity-slideshow, ubiquity-artwork-21.04.19, ubiquity-artwork-20.04.15
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Depends: ${misc:Depends}
+Description: Ubiquity slideshow for Regolith
+ A slideshow intended for the Ubiquity installer, designed as a quick 
+ introduction to Regolith.
