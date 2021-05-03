@@ -1,3 +1,10 @@
+ubiquity-slideshow-regolith (168.5-regolith1) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Update virtual package dependency for focal
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 May 2021 07:34:55 -0700
+
 ubiquity-slideshow-regolith (168.4-regolith1) focal; urgency=medium
 
   [ Ken Gilmer ]
