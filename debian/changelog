@@ -1,3 +1,10 @@
+ubiquity-slideshow-regolith (181) jammy; urgency=medium
+
+  [ Ken Gilmer ]
+  * Update for Regolith 2
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Wed, 15 Jun 2022 20:33:57 -0700
+
 ubiquity-slideshow-regolith (168.6-regolith1) focal; urgency=medium
 
   * Add virtual package for artwork update from upstream. Fixes focal
