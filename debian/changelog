@@ -1,3 +1,10 @@
+ubiquity-slideshow-regolith (182) jammy; urgency=medium
+
+  [ Ken Gilmer ]
+  * Update logo for 2.x
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Fri, 15 Jul 2022 18:39:28 -0700
+
 ubiquity-slideshow-regolith (181) jammy; urgency=medium
 
   [ Ken Gilmer ]
