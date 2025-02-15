@@ -17,6 +17,8 @@ jobs:
       - name: Build Matrix
         id: builder
         uses: regolith-linux/actions/build-matrix@main
+        env:
+          VOULAGE_REF: "enable-ubiquity-slide-show"
         with:
           name: "${{ github.event.repository.name }}"
           ref: "${{ github.base_ref }}" # build for target branch of the pull request
