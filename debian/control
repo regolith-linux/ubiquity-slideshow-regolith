@@ -2,16 +2,15 @@ Source: ubiquity-slideshow-regolith
 Section: x11
 Priority: optional
 Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
-Build-Depends: debhelper (>= 11)
-Build-Depends-Indep: po4a, python2
-Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
-Standards-Version: 4.1.2
+Build-Depends: debhelper-compat (= 12)
+Build-Depends-Indep: po4a, python3
+Vcs-Git: https://git.launchpad.net/ubiquity-slideshow-ubuntu
+Standards-Version: 4.5.0
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
 Package: ubiquity-slideshow-regolith
 Architecture: all
-Provides: ubiquity-slideshow,
-  ubiquity-artwork-22.04.15
+Provides: ubiquity-slideshow
 Conflicts: ubiquity-slideshow
 Replaces: ubiquity-slideshow
 Depends: ${misc:Depends}
