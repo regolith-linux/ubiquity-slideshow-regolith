@@ -1,10 +1,11 @@
-ubiquity-slideshow-regolith (202) UNRELEASED; urgency=medium
+ubiquity-slideshow-regolith (202) jammy; urgency=medium
 
   [ Khosrow Moossavi ]
   * chore: upgrade to version 202 from upstream
   * feat: overall redesign of regoilth slides
+  * feat: use build-only to test pull request
 
- -- Regolith Linux <regolith.linux@gmail.com>  Sun, 16 Feb 2025 12:58:35 -0500
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 09 Mar 2025 19:55:40 +0000
 
 ubiquity-slideshow-regolith (183) jammy; urgency=medium
 
