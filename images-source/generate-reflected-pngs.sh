@@ -2,9 +2,9 @@
 
 distro=$1
 output=$2
-if [ -z $distro ] || [ -z $output ]; then
+if [ -z "$distro" ] || [ -z "$output" ]; then
 	echo "Usage: $0 <distro> <output>"
-	exit -1
+	exit 1
 fi
 
 output="$(pwd)/$output"
