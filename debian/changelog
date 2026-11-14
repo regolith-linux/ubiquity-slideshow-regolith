@@ -1,3 +1,10 @@
+ubiquity-slideshow-regolith (203) jammy; urgency=medium
+
+  [ rego-port-bot ]
+  * fix: point the documentation link at regolith-desktop.com
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sat, 14 Nov 2026 11:46:00 -0800
+
 ubiquity-slideshow-regolith (202) jammy; urgency=medium
 
   [ Khosrow Moossavi ]
